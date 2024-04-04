@@ -1,7 +1,6 @@
-<h1 align="center">TEAP_Public</h1>
-Time Entity Adaptation on Panel Data Forecasting via Meta-Learning
-(Code on Private Repository)
-## Abstract
+<h1 align="center">TEAP: Time Entity Adaptation on Panel Data Forecasting via Meta-Learning</h1>
+
+(Codes on Private Repository)
 - Panel Data: Data with observations for multiple entities like firms, individuals, or devices over time / time-series data on the entity or individual unit in a specific domain
 - Problem: when new entities are added (insufficient amount of data + distribution shift)
 - Meta-learning based approach: general feature extraction (meta-knowledge) across entities and times
